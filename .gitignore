@@ -1,15 +1,15 @@
 # Virtual environment
 venv/
 
-# OS / Editor files
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Optional: scan results
+scan_results_*.json
+
+# OS/editor files
 .DS_Store
 *.swp
 *.swo
 .vscode/
-
-# Python cache / bytecode
-__pycache__/
-*.py[cod]
-
-# Scan results (optional if you don’t want to version output)
-scan_results_*.json
