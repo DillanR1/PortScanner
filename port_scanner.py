@@ -82,4 +82,3 @@ with open("scan_results.json", "w") as f:
 
 print("\nResults saved to scan_results.json (React-ready!)")
 
-###DELETE ME LATER
