@@ -8,10 +8,11 @@ __pycache__/
 # Optional: scan results
 scan_results_*.json
 
+scans/
+
 # OS/editor files
 .DS_Store
 *.swp
 *.swo
 .vscode/
 
-###Insertion (delete)
