@@ -1,7 +1,0 @@
-{
-    "host": "scanme.nmap.org",
-    "open_ports": [
-        22,
-        80
-    ]
-}
