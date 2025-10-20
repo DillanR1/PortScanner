@@ -2,6 +2,11 @@
 
 Welcome to this hands-on tutorial for the Port Scanner with Banner Grabbing and CVE Hints! This Python tool is designed for educational exploration, scanning target hosts, capturing service banners, and suggesting CVEs (like CVE-2023-44487 for HTTP/2 Rapid Reset). With threaded speed and colorful output, it’s perfect for learning networking and coding skills. Let’s get started—safely and legally!
 
+## Demo
+Here's the port scanner in action!:
+
+<image-card alt="Port Scanner Demo" src="https://raw.githubusercontent.com/DillanR1/PortScanner/main/assets/Portscanner-Action.gif" ></image-card>
+
 ## What You’ll Learn
 - How to set up your environment for the port scanner.
 - How to install and configure the tool for use.
