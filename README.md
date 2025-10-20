@@ -5,7 +5,7 @@ Welcome to this hands-on tutorial for the Port Scanner with Banner Grabbing and 
 ## Demo
 Here's the port scanner in action!:
 
-<image-card alt="Port Scanner Demo" src="https://raw.githubusercontent.com/DillanR1/PortScanner/main/assets/Portscanner-Action.gif" ></image-card>
+<img src="https://raw.githubusercontent.com/DillanR1/PortScanner/main/assets/Portscanner-Action.gif" alt="Port Scanner Demo" />
 
 ## What You’ll Learn
 - How to set up your environment for the port scanner.
